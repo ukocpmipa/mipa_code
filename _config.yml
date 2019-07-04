@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Modern Indirect Provider Assessment Portal
+url: "https://ukocpmipa.github.io/mipa"
 baseurl:
 google_analytics_key:
 disqus_shortname:

@@ -2,8 +2,8 @@
 # Site
 
 title: Modern Indirect Provider Assessment Portal
-url: "https://ukocpmipa.github.io/mipa"
-baseurl: 
+url: "https://ukocpmipa.github.io"
+baseurl: /mipa
 google_analytics_key:
 disqus_shortname:
 newsletter_action:

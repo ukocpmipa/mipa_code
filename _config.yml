@@ -3,13 +3,13 @@
 
 title: Modern Indirect Provider Assessment Portal
 url: "https://ukocpmipa.github.io/mipa"
-baseurl:
+baseurl: "/mipa"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo:
 description: Knowledge base template for MIPA.
 author:
   name:

@@ -17,7 +17,10 @@ layout: default
 		{% if page.type == "Video" %}
 			{% include youtube.html video_id=page.video_id %}
 
-			{% if page.resources %}
+			
+		{% endif %}
+		{% if page.resources %}
+		
 				<div class="resources">
 					<ul>
 						{% for resource in page.resources %}
@@ -26,11 +29,10 @@ layout: default
 					</ul>
 				</div>
 			{% endif %}
-		{% endif %}
-		
 		<div class="tutorial-main">
 			{{ content }}
 		</div>
+		
 		<div class="tutorial-share">
 			<a class="modalOpen no-smooth" href="#subscribe">{% include social-icon.html icon="Email" %} Subscribe</a>
 			<a class="modalOpen no-smooth" href="#share">{% include social-icon.html icon="Share" %} Share</a>

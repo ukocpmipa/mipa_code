@@ -22,5 +22,11 @@ The advantage of maintaining this as a company blog is that the content can be s
 
 If you're developing a solution using modern development methodologies and tooling, sharing your journey can be a powerful way to demonstrate to others how to do it.
 
+#### Podcast
+
+#### Vlogging
+
+#### Event speaking
+
 ## Scoring
 

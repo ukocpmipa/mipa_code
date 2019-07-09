@@ -10,6 +10,7 @@ resources:
   - name: "Microsoft competency requirements for Gold and Silver membership"
     link: https://docs.microsoft.com/en-us/partner-center/learn-about-competencies
 type: Document
+author: James Marshall
 #set: getting-started
 #set_order: 3
 ---

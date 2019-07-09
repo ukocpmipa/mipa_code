@@ -13,7 +13,7 @@ layout: default
 	</section>
 	<section class="tutorial-content">
 		<h1>{{ page.title }}</h1>
-
+		<div class="subheading">Author: {{ page.author }} | Last Updated: {{ page.date | date: "%-d %B %Y" }}</div>
 		{% if page.type == "Video" %}
 			{% include youtube.html video_id=page.video_id %}
 

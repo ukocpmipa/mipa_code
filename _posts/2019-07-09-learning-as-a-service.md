@@ -8,6 +8,7 @@ type: Document
 resources:
   - name: "Microsoft Learning Partners & Providers"
     link: https://www.microsoft.com/en-us/learning/partners.aspx
+author: James Marshall
 ---
 ## Description
 

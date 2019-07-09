@@ -1,10 +1,11 @@
 ---
-date: 2017-01-16
+date: 2019-07-09
 title: Technology Thought Leadership
 categories:
   - community
 description: Inspiring new solution and practice ideas through technology evangelism and community engagement.
 type: Document
+author: James Marshall
 ---
 ## Description
 

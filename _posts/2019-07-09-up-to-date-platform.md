@@ -8,6 +8,7 @@ type: Document
 resources:
   - name: "Partner Center API and SDK early adopter program"
     link: https://docs.microsoft.com/en-gb/partner-center/develop/
+author: James Marshall
 ---
 ## Description
 
